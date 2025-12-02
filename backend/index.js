@@ -24,6 +24,10 @@ app.use("/sncf", sncfRoutes);
 const pdfRoutes = require("./routes/pdf_generator");
 app.use("/pdf_generator", pdfRoutes);
 
+app.use("/test", (req, res) => {
+    res.json({ message: "API is working!" });
+})
+
 app.listen(PORT, () => {
     console.log(`API listening on http://localhost:${PORT}`);
 });
