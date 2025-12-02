@@ -1,0 +1,17 @@
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "5000:5000"
+    environment:
+      - PORT=5000
+      - SNCF_API_KEY=${SNCF_API_KEY}
+      - SNCF_API_BASE=${SNCF_API_BASE}
+      - FRONTEND_URL=${FRONTEND_URL}
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "80:80"
+    environment:
+      - VITE_API_URL=${VITE_API_URL}

@@ -1,0 +1,2084 @@
+[
+  {
+    "service_public_name": [
+      "Aéroport CDG2 TGV Roissy"
+    ],
+    "id": "stop_area:SNCF:87271494",
+    "name": "Aéroport Charles de Gaulle 2 TGV"
+  },
+  {
+    "service_public_name": [
+      "Agde"
+    ],
+    "id": "stop_area:SNCF:87781278",
+    "name": "Agde"
+  },
+  {
+    "service_public_name": [
+      "Agen"
+    ],
+    "id": "stop_area:SNCF:87586008",
+    "name": "Agen"
+  },
+  {
+    "service_public_name": [
+      "Aime-la-Plagne"
+    ],
+    "id": "stop_area:SNCF:87741769",
+    "name": "Aime - La Plagne"
+  },
+  {
+    "service_public_name": [
+      "Aix-en-Provence TGV"
+    ],
+    "id": "stop_area:SNCF:87319012",
+    "name": "Aix-en-Provence TGV"
+  },
+  {
+    "service_public_name": [
+      "Aix-les-Bains - Le Revard"
+    ],
+    "id": "stop_area:SNCF:87741132",
+    "name": "Aix-les-Bains - Le Revard"
+  },
+  {
+    "service_public_name": [
+      "Albertville"
+    ],
+    "id": "stop_area:SNCF:87741645",
+    "name": "Albertville"
+  },
+  {
+    "service_public_name": [
+      "Albi-Madeleine"
+    ],
+    "id": "stop_area:SNCF:87615195",
+    "name": "Albi Madeleine"
+  },
+  {
+    "service_public_name": [
+      "Albi Ville"
+    ],
+    "id": "stop_area:SNCF:87615005",
+    "name": "Albi Ville"
+  },
+  {
+    "service_public_name": [
+      "Ancenis"
+    ],
+    "id": "stop_area:SNCF:87481192",
+    "name": "Ancenis"
+  },
+  {
+    "service_public_name": [
+      "Andorre - L'Hospitalet"
+    ],
+    "id": "stop_area:SNCF:87611517",
+    "name": "Andorre-l'Hospitalet"
+  },
+  {
+    "service_public_name": [
+      "Angers - Saint-Laud"
+    ],
+    "id": "stop_area:SNCF:87484006",
+    "name": "Angers Saint-Laud"
+  },
+  {
+    "service_public_name": [
+      "Angoulème"
+    ],
+    "id": "stop_area:SNCF:87583005",
+    "name": "Angoulême"
+  },
+  {
+    "service_public_name": [
+      "Annecy"
+    ],
+    "id": "stop_area:SNCF:87746008",
+    "name": "Annecy"
+  },
+  {
+    "service_public_name": [
+      "Annemasse"
+    ],
+    "id": "stop_area:SNCF:87745497",
+    "name": "Annemasse"
+  },
+  {
+    "service_public_name": [
+      "Antibes"
+    ],
+    "id": "stop_area:SNCF:87757674",
+    "name": "Antibes"
+  },
+  {
+    "service_public_name": [
+      "Arcachon"
+    ],
+    "id": "stop_area:SNCF:87582668",
+    "name": "Arcachon"
+  },
+  {
+    "service_public_name": [
+      "Argelès-sur-Mer"
+    ],
+    "id": "stop_area:SNCF:87784231",
+    "name": "Argelès-sur-Mer"
+  },
+  {
+    "service_public_name": [
+      "Argenton Sur Creuse"
+    ],
+    "id": "stop_area:SNCF:87597120",
+    "name": "Argenton-sur-Creuse"
+  },
+  {
+    "service_public_name": [
+      "Arles"
+    ],
+    "id": "stop_area:SNCF:87753657",
+    "name": "Arles"
+  },
+  {
+    "service_public_name": [
+      "Arras"
+    ],
+    "id": "stop_area:SNCF:87342014",
+    "name": "Arras"
+  },
+  {
+    "service_public_name": [
+      "Assier"
+    ],
+    "id": "stop_area:SNCF:87613075",
+    "name": "Assier"
+  },
+  {
+    "service_public_name": [
+      "Aubin"
+    ],
+    "id": "stop_area:SNCF:87613224",
+    "name": "Aubin"
+  },
+  {
+    "service_public_name": [
+      "Aumont-Aubrac"
+    ],
+    "id": "stop_area:SNCF:87783266",
+    "name": "Aumont-Aubrac"
+  },
+  {
+    "service_public_name": [
+      "Auray"
+    ],
+    "id": "stop_area:SNCF:87476200",
+    "name": "Auray"
+  },
+  {
+    "service_public_name": [
+      "Aurillac"
+    ],
+    "id": "stop_area:SNCF:87645002",
+    "name": "Aurillac"
+  },
+  {
+    "service_public_name": [
+      "Auterive"
+    ],
+    "id": "stop_area:SNCF:87611384",
+    "name": "Auterive"
+  },
+  {
+    "service_public_name": [
+      "Avignon Centre"
+    ],
+    "id": "stop_area:SNCF:87765008",
+    "name": "Avignon Centre"
+  },
+  {
+    "service_public_name": [
+      "Avignon Sud",
+      "Avignon TGV"
+    ],
+    "id": "stop_area:SNCF:87318964",
+    "name": "Avignon TGV"
+  },
+  {
+    "service_public_name": [
+      "Banassac-la-Canourgue"
+    ],
+    "id": "stop_area:SNCF:87783324",
+    "name": "Banassac - La Canourgue"
+  },
+  {
+    "service_public_name": [
+      "Bar-le-Duc"
+    ],
+    "id": "stop_area:SNCF:87175042",
+    "name": "Bar-le-Duc"
+  },
+  {
+    "service_public_name": [
+      "Basel SBB"
+    ],
+    "id": "stop_area:SNCF:85000109",
+    "name": "Basel SBB"
+  },
+  {
+    "service_public_name": [
+      "Bayeux"
+    ],
+    "id": "stop_area:SNCF:87444067",
+    "name": "Bayeux"
+  },
+  {
+    "service_public_name": [
+      "Bayonne"
+    ],
+    "id": "stop_area:SNCF:87673004",
+    "name": "Bayonne"
+  },
+  {
+    "service_public_name": [
+      "Beaune"
+    ],
+    "id": "stop_area:SNCF:87713545",
+    "name": "Beaune"
+  },
+  {
+    "service_public_name": [
+      "Bédarieux"
+    ],
+    "id": "stop_area:SNCF:87781609",
+    "name": "Bédarieux"
+  },
+  {
+    "service_public_name": [
+      "Belfort Ville"
+    ],
+    "id": "stop_area:SNCF:87184002",
+    "name": "Belfort-Ville"
+  },
+  {
+    "service_public_name": [
+      "Belfort-Montbéliard TGV"
+    ],
+    "id": "stop_area:SNCF:87300822",
+    "name": "Belfort - Montbéliard TGV"
+  },
+  {
+    "service_public_name": [
+      "Bellegarde Gare"
+    ],
+    "id": "stop_area:SNCF:87745000",
+    "name": "Bellegarde-sur-Valserine Gare"
+  },
+  {
+    "service_public_name": [
+      "Bernay"
+    ],
+    "id": "stop_area:SNCF:87444299",
+    "name": "Bernay"
+  },
+  {
+    "service_public_name": [
+      "Besançon - Franche-Comté TGV"
+    ],
+    "id": "stop_area:SNCF:87300863",
+    "name": "Besançon - Franche-Comté TGV"
+  },
+  {
+    "service_public_name": [
+      "Besançon-Viotte"
+    ],
+    "id": "stop_area:SNCF:87718007",
+    "name": "Besançon-Viotte"
+  },
+  {
+    "service_public_name": [
+      "Bethune"
+    ],
+    "id": "stop_area:SNCF:87342006",
+    "name": "Béthune"
+  },
+  {
+    "service_public_name": [
+      "Béziers"
+    ],
+    "id": "stop_area:SNCF:87781005",
+    "name": "Béziers"
+  },
+  {
+    "service_public_name": [
+      "Biarritz"
+    ],
+    "id": "stop_area:SNCF:87673400",
+    "name": "Biarritz"
+  },
+  {
+    "service_public_name": [
+      "Biganos-Facture"
+    ],
+    "id": "stop_area:SNCF:87582478",
+    "name": "Biganos Facture"
+  },
+  {
+    "service_public_name": [
+      "Blois-Chambord"
+    ],
+    "id": "stop_area:SNCF:87574004",
+    "name": "Blois - Chambord"
+  },
+  {
+    "service_public_name": [
+      "BonneVille"
+    ],
+    "id": "stop_area:SNCF:87746339",
+    "name": "Bonneville"
+  },
+  {
+    "service_public_name": [
+      "Bordeaux - Saint-Jean"
+    ],
+    "id": "stop_area:SNCF:87581009",
+    "name": "Bordeaux Saint-Jean"
+  },
+  {
+    "service_public_name": [
+      "Boulogne Ville"
+    ],
+    "id": "stop_area:SNCF:87317586",
+    "name": "Boulogne sur Mer"
+  },
+  {
+    "service_public_name": [
+      "Bourg-en-Bresse"
+    ],
+    "id": "stop_area:SNCF:87743005",
+    "name": "Bourg-en-Bresse"
+  },
+  {
+    "service_public_name": [
+      "Bourg-Saint-Maurice"
+    ],
+    "id": "stop_area:SNCF:87741793",
+    "name": "Bourg-Saint-Maurice"
+  },
+  {
+    "service_public_name": [
+      "Bourges"
+    ],
+    "id": "stop_area:SNCF:87576207",
+    "name": "Bourges"
+  },
+  {
+    "service_public_name": [
+      "Brassac-les-Mines - Sainte-Florine"
+    ],
+    "id": "stop_area:SNCF:87734244",
+    "name": "Brassac-les-Mines - Sainte-Florine"
+  },
+  {
+    "service_public_name": [
+      "Breaute-BeuzeVille"
+    ],
+    "id": "stop_area:SNCF:87413344",
+    "name": "Bréauté - Beuzeville"
+  },
+  {
+    "service_public_name": [
+      "Brest"
+    ],
+    "id": "stop_area:SNCF:87474007",
+    "name": "Brest"
+  },
+  {
+    "service_public_name": [
+      "Bretenoux-Biars"
+    ],
+    "id": "stop_area:SNCF:87594762",
+    "name": "Bretenoux - Biars"
+  },
+  {
+    "service_public_name": [
+      "Brive-la-Gaillarde"
+    ],
+    "id": "stop_area:SNCF:87594002",
+    "name": "Brive-la-Gaillarde"
+  },
+  {
+    "service_public_name": [
+      "Caen"
+    ],
+    "id": "stop_area:SNCF:87444000",
+    "name": "Caen"
+  },
+  {
+    "service_public_name": [
+      "Calais Ville"
+    ],
+    "id": "stop_area:SNCF:87317263",
+    "name": "Calais Ville"
+  },
+  {
+    "service_public_name": [
+      "Cambrai"
+    ],
+    "id": "stop_area:SNCF:87345520",
+    "name": "Cambrai"
+  },
+  {
+    "service_public_name": [
+      "Campagnac-Saint-Geniez"
+    ],
+    "id": "stop_area:SNCF:87783340",
+    "name": "Campagnac - Saint-Geniez"
+  },
+  {
+    "service_public_name": [
+      "Cannes"
+    ],
+    "id": "stop_area:SNCF:87757625",
+    "name": "Cannes"
+  },
+  {
+    "service_public_name": [
+      "Capdenac"
+    ],
+    "id": "stop_area:SNCF:87613109",
+    "name": "Capdenac"
+  },
+  {
+    "service_public_name": [
+      "Carcassonne"
+    ],
+    "id": "stop_area:SNCF:87615286",
+    "name": "Carcassonne"
+  },
+  {
+    "service_public_name": [
+      "Carentan"
+    ],
+    "id": "stop_area:SNCF:87447243",
+    "name": "Carentan"
+  },
+  {
+    "service_public_name": [
+      "Carmaux"
+    ],
+    "id": "stop_area:SNCF:87615625",
+    "name": "Carmaux"
+  },
+  {
+    "service_public_name": [
+      "Castelnaudary"
+    ],
+    "id": "stop_area:SNCF:87615039",
+    "name": "Castelnaudary"
+  },
+  {
+    "service_public_name": [
+      "Caussade"
+    ],
+    "id": "stop_area:SNCF:87613356",
+    "name": "Caussade"
+  },
+  {
+    "service_public_name": [
+      "Ceilhes-Roqueredonde"
+    ],
+    "id": "stop_area:SNCF:87781542",
+    "name": "Ceilhes - Roqueredonde"
+  },
+  {
+    "service_public_name": [
+      "Chalon-sur-Saône"
+    ],
+    "id": "stop_area:SNCF:87725002",
+    "name": "Chalon-sur-Saône"
+  },
+  {
+    "service_public_name": [
+      "Châlons-en-Champagne"
+    ],
+    "id": "stop_area:SNCF:87174003",
+    "name": "Châlons-en-Champagne"
+  },
+  {
+    "service_public_name": [
+      "Chambéry - Challes-les-Eaux"
+    ],
+    "id": "stop_area:SNCF:87741009",
+    "name": "Chambéry - Challes-les-Eaux"
+  },
+  {
+    "service_public_name": [
+      "Champagne-Ardenne"
+    ],
+    "id": "stop_area:SNCF:87171926",
+    "name": "Champagne-Ardenne TGV"
+  },
+  {
+    "service_public_name": [
+      "Charleville-Mézières"
+    ],
+    "id": "stop_area:SNCF:87172007",
+    "name": "Charleville-Mézières"
+  },
+  {
+    "service_public_name": [
+      "Châteauroux"
+    ],
+    "id": "stop_area:SNCF:87597005",
+    "name": "Châteauroux"
+  },
+  {
+    "service_public_name": [
+      "Chatellerault"
+    ],
+    "id": "stop_area:SNCF:87575142",
+    "name": "Châtellerault"
+  },
+  {
+    "service_public_name": [
+      "Cherbourg"
+    ],
+    "id": "stop_area:SNCF:87444877",
+    "name": "Cherbourg"
+  },
+  {
+    "service_public_name": [
+      "Chorges"
+    ],
+    "id": "stop_area:SNCF:87763425",
+    "name": "Chorges"
+  },
+  {
+    "service_public_name": [
+      "Clermont-Ferrand"
+    ],
+    "id": "stop_area:SNCF:87734004",
+    "name": "Clermont-Ferrand"
+  },
+  {
+    "service_public_name": [
+      "Cluses"
+    ],
+    "id": "stop_area:SNCF:87746370",
+    "name": "Cluses"
+  },
+  {
+    "service_public_name": [
+      "Coarraze-Nay"
+    ],
+    "id": "stop_area:SNCF:87672139",
+    "name": "Coarraze - Nay"
+  },
+  {
+    "service_public_name": [
+      "Colmar"
+    ],
+    "id": "stop_area:SNCF:87182014",
+    "name": "Colmar"
+  },
+  {
+    "service_public_name": [
+      "Conflans-Fin-d'Oise"
+    ],
+    "id": "stop_area:SNCF:87381459",
+    "name": "Conflans Fin d'Oise"
+  },
+  {
+    "service_public_name": [
+      "Coutras"
+    ],
+    "id": "stop_area:SNCF:87584516",
+    "name": "Coutras"
+  },
+  {
+    "service_public_name": [
+      "Cransac"
+    ],
+    "id": "stop_area:SNCF:87613232",
+    "name": "Cransac"
+  },
+  {
+    "service_public_name": [
+      "Crest"
+    ],
+    "id": "stop_area:SNCF:87761783",
+    "name": "Crest"
+  },
+  {
+    "service_public_name": [
+      "Croix-Wasquehal"
+    ],
+    "id": "stop_area:SNCF:87286716",
+    "name": "Croix - Wasquehal"
+  },
+  {
+    "service_public_name": [
+      "Culmont-Chalindrey"
+    ],
+    "id": "stop_area:SNCF:87142125",
+    "name": "Culmont - Chalindrey"
+  },
+  {
+    "service_public_name": [
+      "Culoz"
+    ],
+    "id": "stop_area:SNCF:87741074",
+    "name": "Culoz"
+  },
+  {
+    "service_public_name": [
+      "Dax"
+    ],
+    "id": "stop_area:SNCF:87673202",
+    "name": "Dax"
+  },
+  {
+    "service_public_name": [
+      "Die"
+    ],
+    "id": "stop_area:SNCF:87761841",
+    "name": "Die"
+  },
+  {
+    "service_public_name": [
+      "Dijon Ville"
+    ],
+    "id": "stop_area:SNCF:87713040",
+    "name": "Dijon"
+  },
+  {
+    "service_public_name": [
+      "Dol-de-Bretagne"
+    ],
+    "id": "stop_area:SNCF:87478073",
+    "name": "Dol-de-Bretagne"
+  },
+  {
+    "service_public_name": [
+      "Dole Ville"
+    ],
+    "id": "stop_area:SNCF:87713412",
+    "name": "Dole-Ville"
+  },
+  {
+    "service_public_name": [
+      "Douai"
+    ],
+    "id": "stop_area:SNCF:87345009",
+    "name": "Douai"
+  },
+  {
+    "service_public_name": [
+      "Dunkerque"
+    ],
+    "id": "stop_area:SNCF:87281006",
+    "name": "Dunkerque"
+  },
+  {
+    "service_public_name": [
+      "Elne"
+    ],
+    "id": "stop_area:SNCF:87784207",
+    "name": "Elne"
+  },
+  {
+    "service_public_name": [
+      "Embrun"
+    ],
+    "id": "stop_area:SNCF:87763466",
+    "name": "Embrun"
+  },
+  {
+    "service_public_name": [
+      "Epinal"
+    ],
+    "id": "stop_area:SNCF:87144006",
+    "name": "Épinal"
+  },
+  {
+    "service_public_name": [
+      "Etaples-Le Touquet"
+    ],
+    "id": "stop_area:SNCF:87317065",
+    "name": "Étaples - Le Touquet"
+  },
+  {
+    "service_public_name": [
+      "Evian-les-Bains"
+    ],
+    "id": "stop_area:SNCF:87745679",
+    "name": "Évian-les-Bains"
+  },
+  {
+    "service_public_name": [
+      "Evreux Normandie"
+    ],
+    "id": "stop_area:SNCF:87387001",
+    "name": "Évreux Normandie"
+  },
+  {
+    "service_public_name": [
+      "Figeac"
+    ],
+    "id": "stop_area:SNCF:87613091",
+    "name": "Figeac"
+  },
+  {
+    "service_public_name": [
+      "Fontainebleau-Avon"
+    ],
+    "id": "stop_area:SNCF:87682211",
+    "name": "Fontainebleau - Avon"
+  },
+  {
+    "service_public_name": [
+      "Forbach"
+    ],
+    "id": "stop_area:SNCF:87193003",
+    "name": "Forbach"
+  },
+  {
+    "service_public_name": [
+      "Frasne"
+    ],
+    "id": "stop_area:SNCF:87715136",
+    "name": "Frasne"
+  },
+  {
+    "service_public_name": [
+      "Futuroscope"
+    ],
+    "id": "stop_area:SNCF:87324095",
+    "name": "Futuroscope"
+  },
+  {
+    "service_public_name": [
+      "Gap"
+    ],
+    "id": "stop_area:SNCF:87763003",
+    "name": "Gap"
+  },
+  {
+    "service_public_name": [
+      "Gourdon"
+    ],
+    "id": "stop_area:SNCF:87613141",
+    "name": "Gourdon"
+  },
+  {
+    "service_public_name": [
+      "Gramat"
+    ],
+    "id": "stop_area:SNCF:87613059",
+    "name": "Gramat"
+  },
+  {
+    "service_public_name": [
+      "Grenoble"
+    ],
+    "id": "stop_area:SNCF:87747006",
+    "name": "Grenoble"
+  },
+  {
+    "service_public_name": [
+      "Groisy Thorens La Caille"
+    ],
+    "id": "stop_area:SNCF:87746248",
+    "name": "Groisy - Thorens - La Caille"
+  },
+  {
+    "service_public_name": [
+      "Guingamp"
+    ],
+    "id": "stop_area:SNCF:87473207",
+    "name": "Guingamp"
+  },
+  {
+    "service_public_name": [
+      "Hazebrouck"
+    ],
+    "id": "stop_area:SNCF:87286302",
+    "name": "Hazebrouck"
+  },
+  {
+    "service_public_name": [
+      "Hendaye"
+    ],
+    "id": "stop_area:SNCF:87677005",
+    "name": "Hendaye"
+  },
+  {
+    "service_public_name": [
+      "Hyères"
+    ],
+    "id": "stop_area:SNCF:87755629",
+    "name": "Hyères"
+  },
+  {
+    "service_public_name": [
+      "Issoire"
+    ],
+    "id": "stop_area:SNCF:87734202",
+    "name": "Issoire"
+  },
+  {
+    "service_public_name": [
+      "Issoudun"
+    ],
+    "id": "stop_area:SNCF:87597062",
+    "name": "Issoudun"
+  },
+  {
+    "service_public_name": [
+      "Jonzac"
+    ],
+    "id": "stop_area:SNCF:87491142",
+    "name": "Jonzac"
+  },
+  {
+    "service_public_name": [
+      "Juvisy",
+      "Juvisy TGV"
+    ],
+    "id": "stop_area:SNCF:87545244",
+    "name": "Juvisy"
+  },
+  {
+    "service_public_name": [
+      "L'Argentière-Les Écrins"
+    ],
+    "id": "stop_area:SNCF:87763557",
+    "name": "L'Argentière -  Les Écrins"
+  },
+  {
+    "service_public_name": [
+      "La Baule-Escoublac"
+    ],
+    "id": "stop_area:SNCF:87481754",
+    "name": "La Baule-Escoublac"
+  },
+  {
+    "service_public_name": [
+      "La Roche-sur-Foron"
+    ],
+    "id": "stop_area:SNCF:87746305",
+    "name": "La Roche-sur-Foron"
+  },
+  {
+    "service_public_name": [
+      "La Roche-sur-Yon"
+    ],
+    "id": "stop_area:SNCF:87486019",
+    "name": "La Roche-sur-Yon"
+  },
+  {
+    "service_public_name": [
+      "La Rochelle Ville"
+    ],
+    "id": "stop_area:SNCF:87485003",
+    "name": "La Rochelle"
+  },
+  {
+    "service_public_name": [
+      "La Souterraine"
+    ],
+    "id": "stop_area:SNCF:87592378",
+    "name": "La Souterraine"
+  },
+  {
+    "service_public_name": [
+      "La Teste"
+    ],
+    "id": "stop_area:SNCF:87582643",
+    "name": "La Teste"
+  },
+  {
+    "service_public_name": [
+      "Lamballe"
+    ],
+    "id": "stop_area:SNCF:87473108",
+    "name": "Lamballe"
+  },
+  {
+    "service_public_name": [
+      "Landerneau"
+    ],
+    "id": "stop_area:SNCF:87474239",
+    "name": "Landerneau"
+  },
+  {
+    "service_public_name": [
+      "Landry"
+    ],
+    "id": "stop_area:SNCF:87741777",
+    "name": "Landry"
+  },
+  {
+    "service_public_name": [
+      "Lannemezan"
+    ],
+    "id": "stop_area:SNCF:87671123",
+    "name": "Lannemezan"
+  },
+  {
+    "service_public_name": [
+      "Lannion"
+    ],
+    "id": "stop_area:SNCF:87473223",
+    "name": "Lannion"
+  },
+  {
+    "service_public_name": [
+      "Laroche-Migennes"
+    ],
+    "id": "stop_area:SNCF:87683268",
+    "name": "Laroche - Migennes"
+  },
+  {
+    "service_public_name": [
+      "Laroquebrou"
+    ],
+    "id": "stop_area:SNCF:87645135",
+    "name": "Laroquebrou"
+  },
+  {
+    "service_public_name": [
+      "Laval"
+    ],
+    "id": "stop_area:SNCF:87478404",
+    "name": "Laval"
+  },
+  {
+    "service_public_name": [
+      "Le Bousquet-d'Orb"
+    ],
+    "id": "stop_area:SNCF:87781583",
+    "name": "Le Bousquet-d'Orb"
+  },
+  {
+    "service_public_name": [
+      "Le Creusot-Montceau TGV"
+    ],
+    "id": "stop_area:SNCF:87694109",
+    "name": "Le Creusot - Montceau-les-Mines - Montchanin TGV"
+  },
+  {
+    "service_public_name": [
+      "Le Croisic"
+    ],
+    "id": "stop_area:SNCF:87481788",
+    "name": "Le Croisic"
+  },
+  {
+    "service_public_name": [
+      "Le Havre"
+    ],
+    "id": "stop_area:SNCF:87413013",
+    "name": "Le Havre"
+  },
+  {
+    "service_public_name": [
+      "Le Mans"
+    ],
+    "id": "stop_area:SNCF:87396002",
+    "name": "Le Mans"
+  },
+  {
+    "service_public_name": [
+      "Le Pouliguen"
+    ],
+    "id": "stop_area:SNCF:87481762",
+    "name": "Le Pouliguen"
+  },
+  {
+    "service_public_name": [
+      "Le Teil"
+    ],
+    "id": "stop_area:SNCF:87764472",
+    "name": "Le Teil"
+  },
+  {
+    "service_public_name": [
+      "Lens"
+    ],
+    "id": "stop_area:SNCF:87345025",
+    "name": "Lens"
+  },
+  {
+    "service_public_name": [
+      "Lépin-le-Lac - La Bauche"
+    ],
+    "id": "stop_area:SNCF:87741439",
+    "name": "Lépin-le-Lac - La Bauche"
+  },
+  {
+    "service_public_name": [
+      "Les Arcs-Draguignan"
+    ],
+    "id": "stop_area:SNCF:87755447",
+    "name": "Les Arcs - Draguignan"
+  },
+  {
+    "service_public_name": [
+      "Les Aubrais"
+    ],
+    "id": "stop_area:SNCF:87543017",
+    "name": "Les Aubrais"
+  },
+  {
+    "service_public_name": [
+      "Les Cabannes"
+    ],
+    "id": "stop_area:SNCF:87611574",
+    "name": "Les Cabannes"
+  },
+  {
+    "service_public_name": [
+      "Les Sables-d'Olonne"
+    ],
+    "id": "stop_area:SNCF:87486449",
+    "name": "Les Sables-d'Olonne"
+  },
+  {
+    "service_public_name": [
+      "Leucate-La Franqui"
+    ],
+    "id": "stop_area:SNCF:87781088",
+    "name": "Leucate la Franqui"
+  },
+  {
+    "service_public_name": [
+      "Lézignan-Corbières"
+    ],
+    "id": "stop_area:SNCF:87615112",
+    "name": "Lézignan-Corbières"
+  },
+  {
+    "service_public_name": [
+      "Libourne"
+    ],
+    "id": "stop_area:SNCF:87584052",
+    "name": "Libourne"
+  },
+  {
+    "service_public_name": [
+      "Lille Europe"
+    ],
+    "id": "stop_area:SNCF:87223263",
+    "name": "Lille Europe"
+  },
+  {
+    "service_public_name": [
+      "Lille Flandres"
+    ],
+    "id": "stop_area:SNCF:87286005",
+    "name": "Lille Flandres"
+  },
+  {
+    "service_public_name": [
+      "Limoges-Bénédictins"
+    ],
+    "id": "stop_area:SNCF:87592006",
+    "name": "Limoges Bénédictins"
+  },
+  {
+    "service_public_name": [
+      "Lison"
+    ],
+    "id": "stop_area:SNCF:87447219",
+    "name": "Lison"
+  },
+  {
+    "service_public_name": [
+      "Lorient"
+    ],
+    "id": "stop_area:SNCF:87476002",
+    "name": "Lorient"
+  },
+  {
+    "service_public_name": [
+      "Lorraine TGV"
+    ],
+    "id": "stop_area:SNCF:87142109",
+    "name": "Lorraine TGV"
+  },
+  {
+    "service_public_name": [
+      "Lourdes"
+    ],
+    "id": "stop_area:SNCF:87671339",
+    "name": "Lourdes"
+  },
+  {
+    "service_public_name": [
+      "Luc-en-Diois"
+    ],
+    "id": "stop_area:SNCF:87761874",
+    "name": "Luc-en-Diois"
+  },
+  {
+    "service_public_name": [
+      "Luçon"
+    ],
+    "id": "stop_area:SNCF:87486258",
+    "name": "Luçon"
+  },
+  {
+    "service_public_name": [
+      "Lunéville"
+    ],
+    "id": "stop_area:SNCF:87141150",
+    "name": "Lunéville"
+  },
+  {
+    "service_public_name": [
+      "Luzenac-Garanou"
+    ],
+    "id": "stop_area:SNCF:87611558",
+    "name": "Luzenac - Garanou"
+  },
+  {
+    "service_public_name": [
+      "Lyon - Part-Dieu"
+    ],
+    "id": "stop_area:SNCF:87723197",
+    "name": "Lyon Part Dieu"
+  },
+  {
+    "service_public_name": [
+      "Lyon Perrache"
+    ],
+    "id": "stop_area:SNCF:87722025",
+    "name": "Lyon Perrache"
+  },
+  {
+    "service_public_name": [
+      "Lyon Vaise"
+    ],
+    "id": "stop_area:SNCF:87721001",
+    "name": "Lyon Vaise"
+  },
+  {
+    "service_public_name": [
+      "Lyon - Saint-Exupéry TGV"
+    ],
+    "id": "stop_area:SNCF:87762906",
+    "name": "Lyon Saint-Exupéry TGV"
+  },
+  {
+    "service_public_name": [
+      "Mâcon-Loché TGV"
+    ],
+    "id": "stop_area:SNCF:87725705",
+    "name": "Mâcon Loché TGV"
+  },
+  {
+    "service_public_name": [
+      "Mâcon Ville"
+    ],
+    "id": "stop_area:SNCF:87725689",
+    "name": "Mâcon"
+  },
+  {
+    "service_public_name": [
+      "Magalas"
+    ],
+    "id": "stop_area:SNCF:87781666",
+    "name": "Magalas"
+  },
+  {
+    "service_public_name": [
+      "Mantes-la-Jolie",
+      "Mantes-la-Jolie TGV"
+    ],
+    "id": "stop_area:SNCF:87381509",
+    "name": "Mantes-la-Jolie"
+  },
+  {
+    "service_public_name": [
+      "Marmande"
+    ],
+    "id": "stop_area:SNCF:87586545",
+    "name": "Marmande"
+  },
+  {
+    "service_public_name": [
+      "Marne-la-Vallée - Chessy"
+    ],
+    "id": "stop_area:SNCF:87754994",
+    "name": "Marne la Vallée - Chessy"
+  },
+  {
+    "service_public_name": [
+      "Marseille-Blancarde"
+    ],
+    "id": "stop_area:SNCF:87751081",
+    "name": "Marseille Blancarde"
+  },
+  {
+    "service_public_name": [
+      "Marseille - Saint-Charles"
+    ],
+    "id": "stop_area:SNCF:87751008",
+    "name": "Marseille Saint-Charles"
+  },
+  {
+    "service_public_name": [
+      "Marvejols"
+    ],
+    "id": "stop_area:SNCF:87783282",
+    "name": "Marvejols"
+  },
+  {
+    "service_public_name": [
+      "Massiac-Blesle"
+    ],
+    "id": "stop_area:SNCF:87734871",
+    "name": "Massiac - Blesle"
+  },
+  {
+    "service_public_name": [
+      "Massy-Palaiseau"
+    ],
+    "id": "stop_area:SNCF:87393579",
+    "name": "Massy-Palaiseau"
+  },
+  {
+    "service_public_name": [
+      "Massy TGV"
+    ],
+    "id": "stop_area:SNCF:87393702",
+    "name": "Massy TGV"
+  },
+  {
+    "service_public_name": [
+      "Melun"
+    ],
+    "id": "stop_area:SNCF:87682005",
+    "name": "Melun"
+  },
+  {
+    "service_public_name": [
+      "Menton"
+    ],
+    "id": "stop_area:SNCF:87756486",
+    "name": "Menton"
+  },
+  {
+    "service_public_name": [
+      "Mérens-les-Vals"
+    ],
+    "id": "stop_area:SNCF:87611525",
+    "name": "Mérens-les-Vals"
+  },
+  {
+    "service_public_name": [
+      "Metz Ville"
+    ],
+    "id": "stop_area:SNCF:87192039",
+    "name": "Metz"
+  },
+  {
+    "service_public_name": [
+      "Meuse TGV"
+    ],
+    "id": "stop_area:SNCF:87147322",
+    "name": "Meuse TGV"
+  },
+  {
+    "service_public_name": [
+      "Millau"
+    ],
+    "id": "stop_area:SNCF:87783001",
+    "name": "Millau"
+  },
+  {
+    "service_public_name": [
+      "Miramas"
+    ],
+    "id": "stop_area:SNCF:87753004",
+    "name": "Miramas"
+  },
+  {
+    "service_public_name": [
+      "Modane"
+    ],
+    "id": "stop_area:SNCF:87742007",
+    "name": "Modane"
+  },
+  {
+    "service_public_name": [
+      "Monaco - Monte-Carlo"
+    ],
+    "id": "stop_area:SNCF:87756403",
+    "name": "Monaco Monte Carlo"
+  },
+  {
+    "service_public_name": [
+      "Montauban-Ville-Bourbon"
+    ],
+    "id": "stop_area:SNCF:87611244",
+    "name": "Montauban Ville Bourbon"
+  },
+  {
+    "service_public_name": [
+      "Montbard"
+    ],
+    "id": "stop_area:SNCF:87713131",
+    "name": "Montbard"
+  },
+  {
+    "service_public_name": [
+      "Montdauphin-Guillestre"
+    ],
+    "id": "stop_area:SNCF:87763508",
+    "name": "Mont-Dauphin - Guillestre"
+  },
+  {
+    "service_public_name": [
+      "Montélimar Gare SNCF"
+    ],
+    "id": "stop_area:SNCF:87764001",
+    "name": "Montélimar"
+  },
+  {
+    "service_public_name": [
+      "Montpellier - Saint-Roch"
+    ],
+    "id": "stop_area:SNCF:87773002",
+    "name": "Montpellier Saint-Roch"
+  },
+  {
+    "service_public_name": [
+      "Montpellier Sud-de-France"
+    ],
+    "id": "stop_area:SNCF:87688887",
+    "name": "Montpellier Sud de France"
+  },
+  {
+    "service_public_name": [
+      "Montrejeau-Gourdan-Polignan"
+    ],
+    "id": "stop_area:SNCF:87611152",
+    "name": "Montréjeau - Gourdan-Polignan"
+  },
+  {
+    "service_public_name": [
+      "Morcenx"
+    ],
+    "id": "stop_area:SNCF:87673103",
+    "name": "Morcenx"
+  },
+  {
+    "service_public_name": [
+      "Morlaix"
+    ],
+    "id": "stop_area:SNCF:87474338",
+    "name": "Morlaix"
+  },
+  {
+    "service_public_name": [
+      "Mouchard"
+    ],
+    "id": "stop_area:SNCF:87718833",
+    "name": "Mouchard"
+  },
+  {
+    "service_public_name": [
+      "Moulins-sur-Allier"
+    ],
+    "id": "stop_area:SNCF:87696328",
+    "name": "Moulins-sur-Allier"
+  },
+  {
+    "service_public_name": [
+      "Moûtiers - Salins - Brides-les-Bains"
+    ],
+    "id": "stop_area:SNCF:87741728",
+    "name": "Moûtiers - Salins - Brides-les-Bains"
+  },
+  {
+    "service_public_name": [
+      "Mulhouse Ville"
+    ],
+    "id": "stop_area:SNCF:87182063",
+    "name": "Mulhouse"
+  },
+  {
+    "service_public_name": [
+      "Nancy"
+    ],
+    "id": "stop_area:SNCF:87141002",
+    "name": "Nancy"
+  },
+  {
+    "service_public_name": [
+      "Nantes"
+    ],
+    "id": "stop_area:SNCF:87481002",
+    "name": "Nantes"
+  },
+  {
+    "service_public_name": [
+      "Narbonne"
+    ],
+    "id": "stop_area:SNCF:87781104",
+    "name": "Narbonne"
+  },
+  {
+    "service_public_name": [
+      "Neufchâteau"
+    ],
+    "id": "stop_area:SNCF:87141291",
+    "name": "Neufchâteau (Grand Est)"
+  },
+  {
+    "service_public_name": [
+      "Neussargues"
+    ],
+    "id": "stop_area:SNCF:87645507",
+    "name": "Neussargues"
+  },
+  {
+    "service_public_name": [
+      "Nevers"
+    ],
+    "id": "stop_area:SNCF:87696005",
+    "name": "Nevers"
+  },
+  {
+    "service_public_name": [
+      "Nice Ville"
+    ],
+    "id": "stop_area:SNCF:87756056",
+    "name": "Nice"
+  },
+  {
+    "service_public_name": [
+      "Nîmes"
+    ],
+    "id": "stop_area:SNCF:87775007",
+    "name": "Nîmes Centre"
+  },
+  {
+    "service_public_name": [
+      "Niort"
+    ],
+    "id": "stop_area:SNCF:87485300",
+    "name": "Niort"
+  },
+  {
+    "service_public_name": [
+      "Nurieux"
+    ],
+    "id": "stop_area:SNCF:87743351",
+    "name": "Nurieux Gare"
+  },
+  {
+    "service_public_name": [
+      "Onville"
+    ],
+    "id": "stop_area:SNCF:87192435",
+    "name": "Onville"
+  },
+  {
+    "service_public_name": [
+      "Orthez"
+    ],
+    "id": "stop_area:SNCF:87672253",
+    "name": "Orthez"
+  },
+  {
+    "service_public_name": [
+      "Paris Austerlitz"
+    ],
+    "id": "stop_area:SNCF:87547000",
+    "name": "Paris Austerlitz"
+  },
+  {
+    "service_public_name": [
+      "Paris Bercy"
+    ],
+    "id": "stop_area:SNCF:87686667",
+    "name": "Paris-Bercy Bourgogne - Pays d'Auvergne"
+  },
+  {
+    "service_public_name": [
+      "Paris Est"
+    ],
+    "id": "stop_area:SNCF:87113001",
+    "name": "Paris Est"
+  },
+  {
+    "service_public_name": [
+      "Paris Gare-de-Lyon"
+    ],
+    "id": "stop_area:SNCF:87686006",
+    "name": "Paris - Gare de Lyon - Hall 1 & 2"
+  },
+  {
+    "service_public_name": [
+      "Paris Montparnasse 1 et 2"
+    ],
+    "id": "stop_area:SNCF:87391003",
+    "name": "Paris - Montparnasse - Hall 1 & 2"
+  },
+  {
+    "service_public_name": [
+      "Paris Montparnasse 3 Vaugirard"
+    ],
+    "id": "stop_area:SNCF:87391102",
+    "name": "Paris Montparnasse Hall 3 Vaugirard"
+  },
+  {
+    "service_public_name": [
+      "Paris Nord"
+    ],
+    "id": "stop_area:SNCF:87271007",
+    "name": "Paris Nord"
+  },
+  {
+    "service_public_name": [
+      "Pau"
+    ],
+    "id": "stop_area:SNCF:87672006",
+    "name": "Pau"
+  },
+  {
+    "service_public_name": [
+      "Perpignan"
+    ],
+    "id": "stop_area:SNCF:87784009",
+    "name": "Perpignan"
+  },
+  {
+    "service_public_name": [
+      "Plouaret-Trégor"
+    ],
+    "id": "stop_area:SNCF:87473181",
+    "name": "Plouaret - Trégor"
+  },
+  {
+    "service_public_name": [
+      "Poitiers"
+    ],
+    "id": "stop_area:SNCF:87575001",
+    "name": "Poitiers"
+  },
+  {
+    "service_public_name": [
+      "Pornichet"
+    ],
+    "id": "stop_area:SNCF:87481747",
+    "name": "Pornichet"
+  },
+  {
+    "service_public_name": [
+      "Port Bou."
+    ],
+    "id": "stop_area:SNCF:87785956",
+    "name": "Port-Bou"
+  },
+  {
+    "service_public_name": [
+      "Port-la-Nouvelle"
+    ],
+    "id": "stop_area:SNCF:87781062",
+    "name": "Port-la-Nouvelle"
+  },
+  {
+    "service_public_name": [
+      "Porte-Puymorens"
+    ],
+    "id": "stop_area:SNCF:87611509",
+    "name": "Porté-Puymorens"
+  },
+  {
+    "service_public_name": [
+      "Quimper"
+    ],
+    "id": "stop_area:SNCF:87474098",
+    "name": "Quimper"
+  },
+  {
+    "service_public_name": [
+      "Quimperlé"
+    ],
+    "id": "stop_area:SNCF:87476317",
+    "name": "Quimperlé"
+  },
+  {
+    "service_public_name": [
+      "Rang-du-Fliers - Verton"
+    ],
+    "id": "stop_area:SNCF:87317057",
+    "name": "Rang-du-Fliers - Verton - Berck"
+  },
+  {
+    "service_public_name": [
+      "Redon"
+    ],
+    "id": "stop_area:SNCF:87471300",
+    "name": "Redon"
+  },
+  {
+    "service_public_name": [
+      "Reims"
+    ],
+    "id": "stop_area:SNCF:87171009",
+    "name": "Reims"
+  },
+  {
+    "service_public_name": [
+      "Rennes"
+    ],
+    "id": "stop_area:SNCF:87471003",
+    "name": "Rennes"
+  },
+  {
+    "service_public_name": [
+      "Rethel"
+    ],
+    "id": "stop_area:SNCF:87172270",
+    "name": "Rethel"
+  },
+  {
+    "service_public_name": [
+      "Riom-Châtel-Guyon"
+    ],
+    "id": "stop_area:SNCF:87734053",
+    "name": "Riom - Châtel-Guyon"
+  },
+  {
+    "service_public_name": [
+      "Rives"
+    ],
+    "id": "stop_area:SNCF:87747246",
+    "name": "Rives"
+  },
+  {
+    "service_public_name": [
+      "Rivesaltes"
+    ],
+    "id": "stop_area:SNCF:87784173",
+    "name": "Rivesaltes"
+  },
+  {
+    "service_public_name": [
+      "Roanne"
+    ],
+    "id": "stop_area:SNCF:87726802",
+    "name": "Roanne"
+  },
+  {
+    "service_public_name": [
+      "Rocamadour-Padirac"
+    ],
+    "id": "stop_area:SNCF:87613042",
+    "name": "Rocamadour - Padirac"
+  },
+  {
+    "service_public_name": [
+      "Rochefort"
+    ],
+    "id": "stop_area:SNCF:87485144",
+    "name": "Rochefort"
+  },
+  {
+    "service_public_name": [
+      "Rosporden"
+    ],
+    "id": "stop_area:SNCF:87474155",
+    "name": "Rosporden"
+  },
+  {
+    "service_public_name": [
+      "Roubaix"
+    ],
+    "id": "stop_area:SNCF:87286732",
+    "name": "Roubaix"
+  },
+  {
+    "service_public_name": [
+      "Rouen-Rive-Droite"
+    ],
+    "id": "stop_area:SNCF:87411017",
+    "name": "Rouen Rive Droite"
+  },
+  {
+    "service_public_name": [
+      "Ruffec Charente"
+    ],
+    "id": "stop_area:SNCF:87583849",
+    "name": "Ruffec"
+  },
+  {
+    "service_public_name": [
+      "Sablé-sur-Sarthe"
+    ],
+    "id": "stop_area:SNCF:87396408",
+    "name": "Sablé-sur-Sarthe"
+  },
+  {
+    "service_public_name": [
+      "Saincaize"
+    ],
+    "id": "stop_area:SNCF:87696260",
+    "name": "Saincaize"
+  },
+  {
+    "service_public_name": [
+      "Sallanches-Combloux-Megève"
+    ],
+    "id": "stop_area:SNCF:87746438",
+    "name": "Sallanches - Combloux - Megève"
+  },
+  {
+    "service_public_name": [
+      "Sarrebourg"
+    ],
+    "id": "stop_area:SNCF:87215012",
+    "name": "Sarrebourg"
+  },
+  {
+    "service_public_name": [
+      "Saumur"
+    ],
+    "id": "stop_area:SNCF:87487603",
+    "name": "Saumur"
+  },
+  {
+    "service_public_name": [
+      "Saverdun"
+    ],
+    "id": "stop_area:SNCF:87611368",
+    "name": "Saverdun"
+  },
+  {
+    "service_public_name": [
+      "Saverne"
+    ],
+    "id": "stop_area:SNCF:87212225",
+    "name": "Saverne"
+  },
+  {
+    "service_public_name": [
+      "Selestat"
+    ],
+    "id": "stop_area:SNCF:87214056",
+    "name": "Sélestat"
+  },
+  {
+    "service_public_name": [
+      "Sète"
+    ],
+    "id": "stop_area:SNCF:87773200",
+    "name": "Sète"
+  },
+  {
+    "service_public_name": [
+      "Souillac"
+    ],
+    "id": "stop_area:SNCF:87594333",
+    "name": "Souillac"
+  },
+  {
+    "service_public_name": [
+      "Saint-Avre - La Chambre"
+    ],
+    "id": "stop_area:SNCF:87741306",
+    "name": "Saint-Avre - La Chambre"
+  },
+  {
+    "service_public_name": [
+      "Saint-Brieuc"
+    ],
+    "id": "stop_area:SNCF:87473009",
+    "name": "Saint-Brieuc"
+  },
+  {
+    "service_public_name": [
+      "Saint-Chély-d'Apcher"
+    ],
+    "id": "stop_area:SNCF:87783241",
+    "name": "Saint-Chély-d'Apcher"
+  },
+  {
+    "service_public_name": [
+      "Saint-Christophe"
+    ],
+    "id": "stop_area:SNCF:87613257",
+    "name": "Saint-Christophe"
+  },
+  {
+    "service_public_name": [
+      "Saint-Etienne - Châteaucreux"
+    ],
+    "id": "stop_area:SNCF:87726000",
+    "name": "Saint-Étienne Châteaucreux"
+  },
+  {
+    "service_public_name": [
+      "Saint-Flour-Chaudes-Aigues"
+    ],
+    "id": "stop_area:SNCF:87783175",
+    "name": "Saint-Flour - Chaudes-Aigues"
+  },
+  {
+    "service_public_name": [
+      "Saint-Gaudens"
+    ],
+    "id": "stop_area:SNCF:87611137",
+    "name": "Saint-Gaudens"
+  },
+  {
+    "service_public_name": [
+      "Saint-Georges-de-Luzencon"
+    ],
+    "id": "stop_area:SNCF:87783423",
+    "name": "Saint-Georges-de-Luzençon"
+  },
+  {
+    "service_public_name": [
+      "Saint-Germain-des-Fossés"
+    ],
+    "id": "stop_area:SNCF:87732206",
+    "name": "Saint-Germain-des-Fossés"
+  },
+  {
+    "service_public_name": [
+      "Saint-Gervais-les-Bains - Le Fayet"
+    ],
+    "id": "stop_area:SNCF:87746479",
+    "name": "Saint-Gervais-les-Bains - Le Fayet"
+  },
+  {
+    "service_public_name": [
+      "Saint-Jean-de-Luz - Ciboure"
+    ],
+    "id": "stop_area:SNCF:87677120",
+    "name": "Saint-Jean-de-Luz - Ciboure"
+  },
+  {
+    "service_public_name": [
+      "Saint-Jean-de-Maurienne - Arvan"
+    ],
+    "id": "stop_area:SNCF:87742320",
+    "name": "Saint-Jean-de-Maurienne - Arvan"
+  },
+  {
+    "service_public_name": [
+      "Saint-Maixent-l'Ecole"
+    ],
+    "id": "stop_area:SNCF:87485490",
+    "name": "Saint-Maixent-L'École"
+  },
+  {
+    "service_public_name": [
+      "Saint-Malo"
+    ],
+    "id": "stop_area:SNCF:87478107",
+    "name": "Saint-Malo"
+  },
+  {
+    "service_public_name": [
+      "Saint-Nazaire"
+    ],
+    "id": "stop_area:SNCF:87481705",
+    "name": "Saint-Nazaire"
+  },
+  {
+    "service_public_name": [
+      "Saint-Pierre-des-Corps"
+    ],
+    "id": "stop_area:SNCF:87571240",
+    "name": "Saint-Pierre-des-Corps"
+  },
+  {
+    "service_public_name": [
+      "Saint-Raphaël - Valescure"
+    ],
+    "id": "stop_area:SNCF:87757526",
+    "name": "Saint-Raphaël - Valescure"
+  },
+  {
+    "service_public_name": [
+      "Saint-Rome-de-Cernon"
+    ],
+    "id": "stop_area:SNCF:87783431",
+    "name": "Saint-Rome-de-Cernon"
+  },
+  {
+    "service_public_name": [
+      "Strasbourg"
+    ],
+    "id": "stop_area:SNCF:87212027",
+    "name": "Strasbourg"
+  },
+  {
+    "service_public_name": [
+      "Surgères"
+    ],
+    "id": "stop_area:SNCF:87485227",
+    "name": "Surgères"
+  },
+  {
+    "service_public_name": [
+      "Tarare"
+    ],
+    "id": "stop_area:SNCF:87721472",
+    "name": "Tarare"
+  },
+  {
+    "service_public_name": [
+      "Tarascon-sur-Ariège"
+    ],
+    "id": "stop_area:SNCF:87611590",
+    "name": "Tarascon-sur-Ariège"
+  },
+  {
+    "service_public_name": [
+      "Tarbes"
+    ],
+    "id": "stop_area:SNCF:87671008",
+    "name": "Tarbes"
+  },
+  {
+    "service_public_name": [
+      "TGV Haute-Picardie"
+    ],
+    "id": "stop_area:SNCF:87313882",
+    "name": "TGV Haute Picardie"
+  },
+  {
+    "service_public_name": [
+      "Thionville"
+    ],
+    "id": "stop_area:SNCF:87191007",
+    "name": "Thionville"
+  },
+  {
+    "service_public_name": [
+      "Toul"
+    ],
+    "id": "stop_area:SNCF:87141044",
+    "name": "Toul"
+  },
+  {
+    "service_public_name": [
+      "Toulon"
+    ],
+    "id": "stop_area:SNCF:87755009",
+    "name": "Toulon"
+  },
+  {
+    "service_public_name": [
+      "Toulouse-Matabiau"
+    ],
+    "id": "stop_area:SNCF:87611004",
+    "name": "Toulouse Matabiau"
+  },
+  {
+    "service_public_name": [
+      "Tourcoing"
+    ],
+    "id": "stop_area:SNCF:87286542",
+    "name": "Tourcoing"
+  },
+  {
+    "service_public_name": [
+      "Tournemire-Roquefort"
+    ],
+    "id": "stop_area:SNCF:87783456",
+    "name": "Tournemire - Roquefort"
+  },
+  {
+    "service_public_name": [
+      "Tours"
+    ],
+    "id": "stop_area:SNCF:87571000",
+    "name": "Tours"
+  },
+  {
+    "service_public_name": [
+      "Uzerche"
+    ],
+    "id": "stop_area:SNCF:87594200",
+    "name": "Uzerche"
+  },
+  {
+    "service_public_name": [
+      "Valence TGV Rhône-Alpes Sud"
+    ],
+    "id": "stop_area:SNCF:87763029",
+    "name": "Valence TGV Rhône-Alpes Sud"
+  },
+  {
+    "service_public_name": [
+      "Valence Ville"
+    ],
+    "id": "stop_area:SNCF:87761007",
+    "name": "Valence Ville"
+  },
+  {
+    "service_public_name": [
+      "Valognes"
+    ],
+    "id": "stop_area:SNCF:87447284",
+    "name": "Valognes"
+  },
+  {
+    "service_public_name": [
+      "Vannes"
+    ],
+    "id": "stop_area:SNCF:87476606",
+    "name": "Vannes"
+  },
+  {
+    "service_public_name": [
+      "Vendôme"
+    ],
+    "id": "stop_area:SNCF:87574558",
+    "name": "Vendôme"
+  },
+  {
+    "service_public_name": [
+      "Vendôme - Villiers-sur-Loir"
+    ],
+    "id": "stop_area:SNCF:87571216",
+    "name": "Vendôme - Villiers-sur-Loir"
+  },
+  {
+    "service_public_name": [
+      "Versailles Chantiers"
+    ],
+    "id": "stop_area:SNCF:87393009",
+    "name": "Versailles Chantiers"
+  },
+  {
+    "service_public_name": [
+      "Vichy"
+    ],
+    "id": "stop_area:SNCF:87732008",
+    "name": "Vichy"
+  },
+  {
+    "service_public_name": [
+      "Vierzon Ville"
+    ],
+    "id": "stop_area:SNCF:87576009",
+    "name": "Vierzon"
+  },
+  {
+    "service_public_name": [
+      "Vitry-le-Francois Gare"
+    ],
+    "id": "stop_area:SNCF:87174276",
+    "name": "Vitry-le-François"
+  }
+]
