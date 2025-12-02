@@ -19,10 +19,10 @@ app.use(cors({
 app.use(express.json());
 
 const sncfRoutes = require("./routes/sncf_api");
-app.use("/api/sncf", sncfRoutes);
+app.use("/sncf", sncfRoutes);
 
 const pdfRoutes = require("./routes/pdf_generator");
-app.use("/api/pdf_generator", pdfRoutes);
+app.use("/pdf_generator", pdfRoutes);
 
 app.listen(PORT, () => {
     console.log(`API listening on http://localhost:${PORT}`);
