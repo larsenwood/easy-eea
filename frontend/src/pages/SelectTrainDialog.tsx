@@ -55,18 +55,15 @@ export default function SelectTrainDialog({
         const fetchJourneys = async () => {
             setLoading(true);
             try {
-                const url = new URL("/api/sncf/journeys");
-                url.searchParams.set(
-                    "from",
-                    fromHome ? currentProject.homeStation.id : currentProject.studyStation.id
-                );
-                url.searchParams.set(
-                    "to",
-                    fromHome ? currentProject.studyStation.id : currentProject.homeStation.id
-                );
+                let url = '/api/sncf/journeys'
+                if (fromHome) {
+                    url = url + "?from=" + currentProject.homeStation.id + "&to=" + currentProject.studyStation.id;
+                } else {
+                    url = url + "?from=" + currentProject.studyStation.id + "&to=" + currentProject.homeStation.id;
+                }
 
                 const when = new Date(date + "T" + time);
-                url.searchParams.set("when", when.toISOString());
+                url = url + "&when=" + when.toISOString();
 
                 const res = await fetch(url.toString());
                 const data = await res.json();
