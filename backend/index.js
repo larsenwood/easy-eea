@@ -43,7 +43,7 @@ const apiLimiter = rateLimit({
 const speedLimiter = slowDown({
     windowMs: 15 * 60 * 1000,
     delayAfter: 20,
-    delayMs: 500
+    delayMs: () => 500
 });
 
 app.use(speedLimiter);

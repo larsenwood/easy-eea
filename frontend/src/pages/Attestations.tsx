@@ -58,6 +58,11 @@ const DroppableFolder = ({folder, children}: any) => {
     );
 };
 
+const dateWithoutTimezone = (date: Date) => {
+    const tzOffset = date.getTimezoneOffset() * 60000;
+    return new Date(date.getTime() - tzOffset).toISOString().slice(0, -1);
+}
+
 const Attestations = () => {
     const navigate = useNavigate();
     const {currentProject, setCurrentProject, saveProject} = useProject();
@@ -77,7 +82,7 @@ const Attestations = () => {
 
         const journeys: Journey[] = [];
         const currentDate = new Date(startDate);
-        currentDate.setHours(0, 0, 0, 0);
+        currentDate.setHours(1, 0, 0, 0);
         const end = new Date(endDate);
         end.setHours(23, 59, 59, 999);
 
