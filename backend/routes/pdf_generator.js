@@ -144,7 +144,9 @@ async function generatePDFPage(originalPath, journeys, validityDate) {
 
     journeys.slice(0, 20).forEach((j, i) => {
         const currentY = height - (startY - ((i - 1 + (10 - journeys.length)) * rowHeight));
-        const formattedDate = formatter.format(new Date(j.date));
+        let date = new Date(j.date);
+        date += 1;
+        const formattedDate = formatter.format(date);
 
         page.drawText(formattedDate, {x: dateX, y: currentY, size: 10, font: helveticaFont});
         page.drawText(j.from.name, {x: originX, y: currentY, size: 10, font: helveticaFont});
