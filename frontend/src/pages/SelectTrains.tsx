@@ -52,6 +52,7 @@ const SelectTrains = () => {
     const navigate = useNavigate();
     const {currentProject, setCurrentProject} = useProject();
     const [currentTripIndex, setCurrentTripIndex] = useState(0);
+    const [initialized, setInitialized] = useState(false);
     const [selectedTrains, setSelectedTrains] = useState<Map<string, string>>(new Map());
     const [selectedClass, setSelectedClass] = useState<'1st' | '2nd'>('2nd');
     const [currentTrainPropositions, setCurrentTrainPropositions] = useState<TrainOption[]>([]);
@@ -85,10 +86,11 @@ const SelectTrains = () => {
             ...e
         })));
     };
-    if (currentTrainPropositions.length < 1) {
+    if (currentTrainPropositions.length < 1 && !initialized) {
         fetchJourneys().then(r => {
             return null;
         });
+        setInitialized(true);
     }
 
     const currentTrip = currentProject.recurringTrips[currentTripIndex];
