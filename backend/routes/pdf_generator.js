@@ -197,11 +197,11 @@ router.post("/generate", async (req, res) => {
             }
         }
 
-        if (filledJourneys.length < 10) {
+        /*if (filledJourneys.length < 10) {
             const last = Object.assign({}, filledJourneys[filledJourneys.length - 1]);
             last.selectedClass = '2nd';
             while (filledJourneys.length < 12) filledJourneys.push(last);
-        }
+        }*/
 
         const pdfPages = await generatePDF('../static/eea-formulaire.pdf', filledJourneys);
         const pdfPages2 = await generatePDF('../static/eea-formulaire2.pdf', filledJourneys2);
