@@ -1,4 +1,4 @@
-import {useState} from 'react';
+import {useEffect, useState} from 'react';
 import {useNavigate} from 'react-router-dom';
 import {Button} from '@/components/ui/button';
 import {Card} from '@/components/ui/card';
@@ -52,46 +52,50 @@ const SelectTrains = () => {
     const navigate = useNavigate();
     const {currentProject, setCurrentProject} = useProject();
     const [currentTripIndex, setCurrentTripIndex] = useState(0);
-    const [initialized, setInitialized] = useState(false);
     const [selectedTrains, setSelectedTrains] = useState<Map<string, string>>(new Map());
     const [selectedClass, setSelectedClass] = useState<'1st' | '2nd'>('2nd');
     const [currentTrainPropositions, setCurrentTrainPropositions] = useState<TrainOption[]>([]);
+
+    useEffect(() => {
+        if (!currentProject) return;
+
+        setCurrentTrainPropositions([]);
+        fetchJourneys(currentTripIndex);
+
+    }, [currentTripIndex, currentProject]);
 
     if (!currentProject) {
         navigate('/');
         return null;
     }
 
-    const fetchJourneys = async () => {
+    const fetchJourneys = async (tripIndex: number) => {
         const res = await fetch(
-            generateJourneyURL(currentProject.recurringTrips[currentTripIndex], currentProject)
+            generateJourneyURL(currentProject.recurringTrips[tripIndex], currentProject)
         );
+
         const data = await res.json();
         let i = 0;
 
-        setCurrentTrainPropositions(data.map((e: any) => ({
-            id: ++i,
-            departureTime: new Date(
-                e.departure_time.replace(
-                    /(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})/,
-                    "$1-$2-$3T$4:$5:$6"
-                )
-            ),
-            arrivalTime: new Date(
-                e.arrival_time.replace(
-                    /(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})/,
-                    "$1-$2-$3T$4:$5:$6"
-                )
-            ),
-            ...e
-        })));
+        setCurrentTrainPropositions(
+            data.map((e: any) => ({
+                id: ++i,
+                departureTime: new Date(
+                    e.departure_time.replace(
+                        /(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})/,
+                        "$1-$2-$3T$4:$5:$6"
+                    )
+                ),
+                arrivalTime: new Date(
+                    e.arrival_time.replace(
+                        /(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})/,
+                        "$1-$2-$3T$4:$5:$6"
+                    )
+                ),
+                ...e
+            }))
+        );
     };
-    if (currentTrainPropositions.length < 1 && !initialized) {
-        fetchJourneys().then(r => {
-            return null;
-        });
-        setInitialized(true);
-    }
 
     const currentTrip = currentProject.recurringTrips[currentTripIndex];
     const tripKey = currentTrip.id;
@@ -116,19 +120,14 @@ const SelectTrains = () => {
         }
 
         for (const train of currentTrainOption.trains) {
-            if (!train.availableEEATrain) train.selectedClass = '2nd'
-            else train.selectedClass = selectedClass;
+            train.selectedClass = train.availableEEATrain ? selectedClass : '2nd';
         }
 
+        currentProject.recurringTrips[currentTripIndex].trainOptionSelected = currentTrainOption;
+
         if (currentTripIndex < currentProject.recurringTrips.length - 1) {
-            currentProject.recurringTrips[currentTripIndex].trainOptionSelected = currentTrainOption;
-            setCurrentTripIndex(currentTripIndex + 1);
-            setCurrentTrainPropositions([]);
-
-            fetchJourneys();
+            setCurrentTripIndex(prev => prev + 1);
         } else {
-            currentProject.recurringTrips[currentTripIndex].trainOptionSelected = currentTrainOption;
-
             setCurrentProject({
                 ...currentProject,
                 recurringTrips: currentProject.recurringTrips,
