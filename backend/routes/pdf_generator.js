@@ -132,7 +132,7 @@ async function generatePDFPage(originalPath, journeys, validityDate) {
     const rowHeight = 21;
     const dateX = 100, originX = 162.5, destinationX = 275, timeX = 400;
 
-    page.drawText("Date de début de validité : " + formatter.format(validityDate), {
+    page.drawText("Date de début de validité : " + validityDate.toLocaleDateString('fr'), {
         x: 55,
         y: height - 760,
         size: 10,
