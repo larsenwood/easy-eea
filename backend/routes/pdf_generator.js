@@ -128,8 +128,6 @@ async function generatePDFPage(originalPath, journeys, validityDate) {
         await modifyEEAPdf(pdfDoc);
     }
 
-    const formatter = new Intl.DateTimeFormat("fr-FR", {day: "2-digit", month: "2-digit", year: "numeric"});
-
     const startY = 505;
     const rowHeight = 21;
     const dateX = 100, originX = 162.5, destinationX = 275, timeX = 400;
@@ -145,8 +143,7 @@ async function generatePDFPage(originalPath, journeys, validityDate) {
     journeys.slice(0, 20).forEach((j, i) => {
         const currentY = height - (startY - ((i - 1 + (10 - journeys.length)) * rowHeight));
         let date = new Date(j.date);
-        // date.setDate(date.getDate());
-        const formattedDate = formatter.format(date);
+        const formattedDate = date.toLocaleDateString('fr');
 
         page.drawText(formattedDate, {x: dateX, y: currentY, size: 10, font: helveticaFont});
         page.drawText(j.from.name, {x: originX, y: currentY, size: 10, font: helveticaFont});
